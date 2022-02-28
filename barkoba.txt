@@ -1,3 +1,4 @@
 Fabol keszult?
 igen
 Kint hasznaljuk?
+nem
