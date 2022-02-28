@@ -3,3 +3,4 @@ igen
 Kint hasznaljuk?
 nem
 nagyobb mint egy telefon?
+kb akkora
